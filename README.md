@@ -1,5 +1,8 @@
 # AMBASSADOR-SCHOOL
 Приветствие
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/zLfYX2NarIlKL9aH41/giphy.gif" width="100"/>
 </div>
@@ -20,6 +23,4 @@
   Здесь описание нашей школы
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
+
