@@ -1,7 +1,7 @@
 # AMBASSADOR-SCHOOL
 Приветствие
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="800" height="500"/>
 </div>
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/zLfYX2NarIlKL9aH41/giphy.gif" width="100"/>
@@ -17,7 +17,6 @@
   <a href="your-twitter-URL">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
-  ---
 </div align="center">
 <img src="https://komarev.com/ghpvc/?username=PushkaSBLK&style=flat-square&color=blue" alt=""/>
 <h1>
